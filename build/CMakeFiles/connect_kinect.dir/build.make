@@ -111,6 +111,7 @@ connect_kinect: /opt/ros/hydro/lib/libopencv_stitching.so
 connect_kinect: /opt/ros/hydro/lib/libopencv_superres.so
 connect_kinect: /opt/ros/hydro/lib/libopencv_video.so
 connect_kinect: /opt/ros/hydro/lib/libopencv_videostab.so
+connect_kinect: /opt/ros/hydro/lib/libcv_bridge.so
 connect_kinect: CMakeFiles/connect_kinect.dir/build.make
 connect_kinect: CMakeFiles/connect_kinect.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable connect_kinect"

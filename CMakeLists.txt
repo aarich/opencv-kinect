@@ -10,4 +10,4 @@ add_executable(connect_kinect connect_kinect.cpp)
 
 include_directories(SYSTEM ${OpenCV_INCLUDE_DIRS})
 
-target_link_libraries (connect_kinect ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
+target_link_libraries (connect_kinect ${catkin_LIBRARIES} ${OpenCV_LIBRARIES} /opt/ros/hydro/lib/libcv_bridge.so)
