@@ -7,6 +7,16 @@
 #IncludeRegexTransform: 
 
 /home/robotics/Desktop/Opencv/connect_kinect.cpp
+stdio.h
+-
+iostream
+-
+opencv2/core/core.hpp
+/home/robotics/Desktop/Opencv/opencv2/core/core.hpp
+opencv2/features2d/features2d.hpp
+/home/robotics/Desktop/Opencv/opencv2/features2d/features2d.hpp
+opencv2/nonfree/features2d.hpp
+/home/robotics/Desktop/Opencv/opencv2/nonfree/features2d.hpp
 ros/ros.h
 -
 cv_bridge/cv_bridge.h
@@ -126,6 +136,26 @@ emmintrin.h
 
 /opt/ros/hydro/include/opencv2/core/version.hpp
 
+/opt/ros/hydro/include/opencv2/features2d/features2d.hpp
+opencv2/core/core.hpp
+/opt/ros/hydro/include/opencv2/features2d/opencv2/core/core.hpp
+opencv2/flann/miniflann.hpp
+/opt/ros/hydro/include/opencv2/features2d/opencv2/flann/miniflann.hpp
+limits
+-
+
+/opt/ros/hydro/include/opencv2/flann/config.h
+
+/opt/ros/hydro/include/opencv2/flann/defines.h
+config.h
+/opt/ros/hydro/include/opencv2/flann/config.h
+
+/opt/ros/hydro/include/opencv2/flann/miniflann.hpp
+opencv2/core/core.hpp
+/opt/ros/hydro/include/opencv2/flann/opencv2/core/core.hpp
+opencv2/flann/defines.h
+/opt/ros/hydro/include/opencv2/flann/opencv2/flann/defines.h
+
 /opt/ros/hydro/include/opencv2/highgui/highgui.hpp
 opencv2/core/core.hpp
 /opt/ros/hydro/include/opencv2/highgui/opencv2/core/core.hpp
@@ -135,6 +165,10 @@ opencv2/highgui/highgui_c.h
 /opt/ros/hydro/include/opencv2/highgui/highgui_c.h
 opencv2/core/core_c.h
 /opt/ros/hydro/include/opencv2/highgui/opencv2/core/core_c.h
+
+/opt/ros/hydro/include/opencv2/nonfree/features2d.hpp
+opencv2/features2d/features2d.hpp
+/opt/ros/hydro/include/opencv2/nonfree/opencv2/features2d/features2d.hpp
 
 /opt/ros/hydro/include/ros/advertise_options.h
 ros/forwards.h

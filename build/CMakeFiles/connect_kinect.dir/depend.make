@@ -11,8 +11,13 @@ CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/openc
 CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/core/operations.hpp
 CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/core/types_c.h
 CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/core/version.hpp
+CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/features2d/features2d.hpp
+CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/flann/config.h
+CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/flann/defines.h
+CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/flann/miniflann.hpp
 CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/highgui/highgui.hpp
 CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/highgui/highgui_c.h
+CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/opencv2/nonfree/features2d.hpp
 CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/ros/advertise_options.h
 CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/ros/advertise_service_options.h
 CMakeFiles/connect_kinect.dir/connect_kinect.cpp.o: /opt/ros/hydro/include/ros/assert.h
